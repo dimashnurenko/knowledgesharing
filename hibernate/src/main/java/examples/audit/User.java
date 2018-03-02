@@ -1,4 +1,4 @@
-package audit;
+package examples.audit;
 
 public class User {
 	private final Long id;

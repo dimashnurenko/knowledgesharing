@@ -1,4 +1,4 @@
-package audit;
+package examples.audit;
 
 import org.hibernate.SessionFactory;
 import org.junit.Test;
